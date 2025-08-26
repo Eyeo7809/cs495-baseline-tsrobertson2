@@ -12,3 +12,6 @@ Honestly I don't know.  I don't think I've coded enough to know what I'm most co
 
 5. What do you feel least comfortable doing?
 I definitely feel least comfortable with tests and "clean coding principles"
+
+Concentration:
+Game Design and Development
